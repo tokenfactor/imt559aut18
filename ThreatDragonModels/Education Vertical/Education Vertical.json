@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Education Vertical",
+    "owner": "L. Domingo",
+    "description": "Level 1 DFD"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "lizcrooks"
+      }
+    ],
+    "diagrams": []
+  }
+}
